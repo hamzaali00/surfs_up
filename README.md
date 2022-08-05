@@ -1,9 +1,9 @@
 # Surfs Up!
 
 ## Purpose
-The purpose of this data analysis was to gain insight on temperature data in the months of June and December in Oahu.
+The purpose of this data analysis was to gain insight on temperature data in the months of June and December in Oahu, to determine if the surf and ice cream shop business is sustainable year round.
 
-The purpose of the assignment was to write queries using python, sqlalchemy, and sqlite.
+The purpose of the assignment was to write queries using python, sqlalchemy, and sqlite, create dataframes, and calculate and print summary statistics.
 
 ## Results
 ![June Stats Summary](Resources/summary_june.png)
